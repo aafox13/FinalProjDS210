@@ -1,0 +1,6 @@
+1; Population_annual_rate_of_increase_(percent)
+2; Total_fertility_rate_(children_per_women)
+3; Infant_mortality_for_both_sexes_(per_1000_live_births)
+4; Life_expectancy_at_birth_for_both_sexes_(years)
+5; Life_expectancy_at_birth_for_males_(years)
+6; Life_expectancy_at_birth_for_females_(years)

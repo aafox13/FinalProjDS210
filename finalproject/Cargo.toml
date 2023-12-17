@@ -1,0 +1,16 @@
+[package]
+name = "finalproject"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = "1.0"
+serde_json = "1.0"
+petgraph = "0.5"
+k-means = "0.7"
+ndarray = "0.15"
+ndarray-rand = "0.14"
+rand = "0.8"
+plotters = "0.3"
